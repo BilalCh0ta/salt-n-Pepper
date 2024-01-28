@@ -282,3 +282,108 @@ width: 500px;
 
 
 /* about end  */
+
+
+
+/* publication start  */
+
+
+
+#book-1{
+    border: 1px solid rgb(60, 57, 57) ;
+    width: 540px;
+   
+    height:560px ;
+
+}
+
+#book-2{
+    border: 1px solid rgb(60, 57, 57) ;
+    width: 540px;
+   
+    height:560px ;
+   
+}
+
+:hover.book-set{
+    width: 550px;
+    margin-right: 20px;
+}
+
+.head-content{
+    font-size: 35px;
+}
+
+/* publication end  */
+
+/* feedback start  */
+
+.feed-style{
+    font-size: 35px;
+}
+
+.input{
+    width: 600px;
+    border-radius: 5px;
+    padding: 13px;
+}
+
+.post{
+width: 150px;
+padding: 12px 6px 10px 6px;
+border: 0px;
+border-radius: 20px;
+margin-left: 120px;
+margin-top: 20px;
+background-color: red;
+}
+
+:hover.fa-star{
+color: red;
+}
+
+/* feedback end  */
+
+
+
+/* get a franchise start  */
+
+.get-style{
+    font-size: 45px;
+}
+
+.g-input{
+    width: 530px;
+    padding: 13px;
+}
+
+.submit{
+    width: 170px;
+padding: 18px 6px 14px 6px;
+border: 0px;
+border-radius: 20px;
+margin-left: 40px;
+margin-top: 20px;
+background-color: red;
+}
+/* get a franchise end  */
+
+
+/* order online start  */
+
+#Menu{
+    margin-top: 20px;
+    height: 130px;
+    background-color: #0f0f0f;
+    display: flex;
+    align-items: center;
+}
+
+.menu-head{
+    font-size: 45px;
+    color: #292929;
+}
+
+/* order online end  */
+
+
